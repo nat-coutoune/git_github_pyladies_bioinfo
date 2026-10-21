@@ -2,7 +2,7 @@
 
 Um tema muito importante na ciência é a reprodutibilidade! E na bioinfo não é diferente: a documentação é fundamental, e fazé-lo corretamente é tão importante quanto ela mesma ;) 
 
-![image](/run/media/nat/dce40293-0d83-4e32-90f0-499c22f3052a/nat/1_projects/pyladies_bioinfo/git_github/unnamed_short.png)
+![image](image/unnamed_short.png) 
 
 Material de uma aula introdutória de **Git e GitHub para estudantes de bioinformática**, com teoria e prática. Cada passo é feito de dois jeitos: **no terminal** e **no VS Code**.
 
